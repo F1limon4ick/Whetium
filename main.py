@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from database import Database
 
 
-TOKEN = "8748023450:AAFu_cQoVvwxX8tuXgyKxYyzjvM1ZF7MDMg"
+TOKEN = "TOKEN_BOT"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
